@@ -1,0 +1,368 @@
+ <link href="css/prettify.css" type="text/css" rel="stylesheet" />
+ <link href="css/bootstrap.css" type="text/css" rel="stylesheet" />
+ <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+ <link href="css/docs.css" type="text/css" rel="stylesheet" />
+ <link href="css/bootstrap-responsive.min.css" type="text/css" rel="stylesheet" />
+ <link href="css/bootstrap-responsive.css" type="text/css" rel="stylesheet" />
+ <script type="text/javascript" src="js/jquery.js"> </script>
+ <script type="text/javascript" src="js/bootstrap-button.js"> </script>
+ <script type="text/javascript" src="js/bootstrap-dropdown.js"> </script>
+ <script type="text/javascript" src="js/bootstrap-tab.js"> </script>
+ <script type="text/javascript" src="js/bootstrap-alert.js"> </script>
+ <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+ <script src="js/prettify.js"></script>
+ <script src="js/bootstrap-transition.js"></script>
+ <script src="js/bootstrap-modal.js"></script>
+ <script src="js/bootstrap-scrollspy.js"></script>
+ <script src="js/bootstrap-tooltip.js"></script>
+ <script src="js/bootstrap-popover.js"></script>
+ <script src="js/bootstrap-collapse.js"></script>
+ <script src="js/bootstrap-carousel.js"></script>
+ <script src="js/bootstrap-typeahead.js"></script>
+ <script src="js/application.js"></script>
+ 
+ 
+  
+ <script language="JavaScript">
+$('#myModal').modal(options)
+$('.dropdown-toggle').dropdown()
+$('#navbar').scrollspy()
+$('#myTab').tab('show')
+$('#example').tooltip(options)
+$('#example').popover(options)
+$(".alert").alert()
+$('.tabs').button()
+$(".collapse").collapse()
+$('.carousel').carousel()
+$('.typeahead').typeahead()
+</script>
+
+<a class="btn" data-toggle="modal" href="#myModal" >Launch Modal</a>
+<div class="modal" id="myModal">
+  <div class="modal-header">
+    <a class="close" data-dismiss="modal">x</a>
+    <h3>Modal header</h3>
+  </div>
+  <div class="modal-body">
+    <p>One fine body</p>
+  </div>
+  <div class="modal-footer">
+    <a href="#" class="btn btn-primary">Save changes</a>
+    <a href="#" class="btn">Close</a>
+  </div>
+</div><br><br><br><br><br><br><br>
+<h1>Dropdowns</h1>
+<ul class="nav pills">
+  <li class="active"><a href="#">Regular link</a></li>
+  <li class="dropdown" id="menu1">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#menu1">
+      Dropdown
+      <b class="caret"></b>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a href="#">Action</a></li>
+      <li><a href="#">Another action</a></li>
+      <li><a href="#">Something else here</a></li>
+      <li class="divider"></li>
+      <li><a href="#">Separated link</a></li>
+    </ul>
+  </li>
+</ul>
+ <ul class="nav nav-pills">
+            <li class="active"><a href="#">Regular link</a></li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Dropdown <b class="caret"></b></a>
+              <ul id="menu1" class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+              </ul>
+            </li></ul>
+<div id="navbar-example" class="navbar navbar-static">
+            <div class="navbar-inner">
+              <div class="container" style="width: auto;">
+                <a class="brand" href="#">Project Name</a>
+                <ul class="nav">
+                  <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="#">Action</a></li>
+                      <li><a href="#">Another action</a></li>
+                      <li><a href="#">Something else here</a></li>
+                      <li class="divider"></li>
+                      <li><a href="#">Separated link</a></li>
+                    </ul>
+                  </li>
+                  
+                  
+                  
+                  <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown 2 <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="#">Action</a></li>
+                      <li><a href="#">Another action</a></li>
+                      <li><a href="#">Something else here</a></li>
+                      <li class="divider"></li>
+                      <li><a href="#">Separated link</a></li>
+                    </ul>
+                  </li>
+                </ul>
+                <ul class="nav pull-right">
+                  <li id="fat-menu" class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown 3 <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="#">Action</a></li>
+                      <li><a href="#">Another action</a></li>
+                      <li><a href="#">Something else here</a></li>
+                      <li class="divider"></li>
+                      <li><a href="#">Separated link</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!-- /navbar-example -->
+
+          <ul class="nav nav-pills">
+            <li class="active"><a href="#">Regular link</a></li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Dropdown <b class="caret"></b></a>
+              <ul id="menu1" class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+              </ul>
+            </li>
+        
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Dropdown 2 <b class="caret"></b></a>
+              <ul id="menu2" class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Dropdown 3 <b class="caret"></b></a>
+              <ul id="menu3" class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+              </ul>
+            </li>
+          </ul>
+ <h1>ScrollSpy</h1>      
+ <div id="navbarExample" class="navbar navbar-static">
+            <div class="navbar-inner">
+              <div class="container" style="width: auto;">
+                <a class="brand" href="#">Project Name</a>
+                <ul class="nav">
+                  <li><a href="#fat">@fat</a></li>
+                  <li><a href="#mdo">@mdo</a></li>
+                  <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="#one">one</a></li>
+                      <li><a href="#two">two</a></li>
+                      <li class="divider"></li>
+                      <li><a href="#three">three</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div data-spy="scroll" data-target="#navbarExample" data-offset="0" class="scrollspy-example">
+            <h4 id="fat">@fat</h4>
+            <p>
+            Ad leggings keytar, brunch id art party dolor labore. Pitchfork yr enim lo-fi before they sold out qui. Tumblr farm-to-table bicycle rights whatever. Anim keffiyeh carles cardigan. Velit seitan mcsweeney's photo booth 3 wolf moon irure. Cosby sweater lomo jean shorts, williamsburg hoodie minim qui you probably haven't heard of them et cardigan trust fund culpa biodiesel wes anderson aesthetic. Nihil tattooed accusamus, cred irony biodiesel keffiyeh artisan ullamco consequat.
+            </p>
+            <h4 id="mdo">@mdo</h4>
+            <p>
+            Veniam marfa mustache skateboard, adipisicing fugiat velit pitchfork beard. Freegan beard aliqua cupidatat mcsweeney's vero. Cupidatat four loko nisi, ea helvetica nulla carles. Tattooed cosby sweater food truck, mcsweeney's quis non freegan vinyl. Lo-fi wes anderson +1 sartorial. Carles non aesthetic exercitation quis gentrify. Brooklyn adipisicing craft beer vice keytar deserunt.
+            </p>
+            <h4 id="one">one</h4>
+            <p>
+            Occaecat commodo aliqua delectus. Fap craft beer deserunt skateboard ea. Lomo bicycle rights adipisicing banh mi, velit ea sunt next level locavore single-origin coffee in magna veniam. High life id vinyl, echo park consequat quis aliquip banh mi pitchfork. Vero VHS est adipisicing. Consectetur nisi DIY minim messenger bag. Cred ex in, sustainable delectus consectetur fanny pack iphone.
+            </p>
+            <h4 id="two">two</h4>
+            <p>
+            In incididunt echo park, officia deserunt mcsweeney's proident master cleanse thundercats sapiente veniam. Excepteur VHS elit, proident shoreditch +1 biodiesel laborum craft beer. Single-origin coffee wayfarers irure four loko, cupidatat terry richardson master cleanse. Assumenda you probably haven't heard of them art party fanny pack, tattooed nulla cardigan tempor ad. Proident wolf nesciunt sartorial keffiyeh eu banh mi sustainable. Elit wolf voluptate, lo-fi ea portland before they sold out four loko. Locavore enim nostrud mlkshk brooklyn nesciunt.
+            </p>
+            <h4 id="three">three</h4>
+            <p>
+            Ad leggings keytar, brunch id art party dolor labore. Pitchfork yr enim lo-fi before they sold out qui. Tumblr farm-to-table bicycle rights whatever. Anim keffiyeh carles cardigan. Velit seitan mcsweeney's photo booth 3 wolf moon irure. Cosby sweater lomo jean shorts, williamsburg hoodie minim qui you probably haven't heard of them et cardigan trust fund culpa biodiesel wes anderson aesthetic. Nihil tattooed accusamus, cred irony biodiesel keffiyeh artisan ullamco consequat.
+            </p>
+            <p>Keytar twee blog, culpa messenger bag marfa whatever delectus food truck. Sapiente synth id assumenda. Locavore sed helvetica cliche irony, thundercats you probably haven't heard of them consequat hoodie gluten-free lo-fi fap aliquip. Labore elit placeat before they sold out, terry richardson proident brunch nesciunt quis cosby sweater pariatur keffiyeh ut helvetica artisan. Cardigan craft beer seitan readymade velit. VHS chambray laboris tempor veniam. Anim mollit minim commodo ullamco thundercats.
+            </p>
+          </div>
+<h1>Togglable tabs</h1>    
+ <ul id="tab" class="nav nav-tabs">
+            <li class="active"><a href="#home" data-toggle="tab">Home</a></li>
+            <li><a href="#profile" data-toggle="tab">Profile</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#dropdown1" data-toggle="tab">@fat</a></li>
+                <li><a href="#dropdown2" data-toggle="tab">@mdo</a></li>
+              </ul>
+            </li>
+          </ul>
+          <div id="myTabContent" class="tab-content">
+            <div class="tab-pane fade in active" id="home">
+              <p>bu ozelligi sevdim.</p>
+            </div>
+            <div class="tab-pane fade" id="profile">
+              <p>merhaba dunya.</p>
+            </div>
+            <div class="tab-pane fade" id="dropdown1">
+              <p>secim yapmak gerek.</p>
+            </div>
+            <div class="tab-pane fade" id="dropdown2">
+              <p>baska secim icin.</p>
+            </div>
+          </div>
+<br><br><br>
+<h1>Tooltips</h1>
+<div class="tooltip-demo well">
+            <p class="muted" style="margin-bottom: 0;">Tight pants next level keffiyeh <a href="#" rel="tooltip" title="first tooltip">you probably</a> haven't heard of them. Photo booth beard raw denim letterpress vegan messenger bag stumptown. Farm-to-table seitan, mcsweeney's fixie sustainable quinoa 8-bit american apparel <a href="#" rel="tooltip" title="Another tooltip">have a</a> terry richardson vinyl chambray. Beard stumptown, cardigans banh mi lomo thundercats. Tofu biodiesel williamsburg marfa, four loko mcsweeney's cleanse vegan chambray. A <a href="#" rel="tooltip" title="Another one here too">really ironic</a> artisan whatever keytar, scenester farm-to-table banksy Austin <a href="#" rel="tooltip" title="The last tip!">twitter handle</a> freegan cred raw denim single-origin coffee viral.
+            </p>
+          </div>      
+
+<h1>Popovers</h1>
+<div class="well">
+            <a href="#" class="btn btn-danger" rel="popover" title="A Title" data-content="And here's some amazing content. It's very engaging. right?">hover for popover</a>
+          </div>
+<h1>Alert messages</h1>
+<div class="alert fade in">
+            <a class="close" data-dismiss="alert" href="#">&times;</a>
+            <strong>Holy guacamole!</strong> Best check yo self, you're not looking too good.
+          </div>
+          <div class="alert alert-block alert-error fade in">
+            <a class="close" data-dismiss="alert" href="#">&times;</a>
+            <h4 class="alert-heading">Oh snap! You got an error!</h4>
+            <p>Change this and that and try again. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum.</p>
+            <p>
+              <a class="btn btn-danger" href="#">Take this action</a> <a class="btn" href="#">Or do this</a>
+            </p>
+          </div>
+          
+<h1>Buttons </h1>          
+<table class="table table-bordered table-striped">
+            <tbody>
+             <tr>
+               <td>Stateful</td>
+               <td>
+                  <button id="fat-btn" data-loading-text="loading..." class="btn btn-primary">
+                    Loading State
+                  </button>
+                </td>
+             </tr>
+             <tr>
+               <td>Single toggle</td>
+               <td>
+                  <button class="btn btn-primary" data-toggle="button">Single Toggle</button>
+                </td>
+             </tr>
+             <tr>
+               <td>Checkbox</td>
+               <td>
+                  <div class="btn-group" data-toggle="buttons-checkbox">
+                    <button class="btn btn-primary">Left</button>
+                    <button class="btn btn-primary">Middle</button>
+                    <button class="btn btn-primary">Right</button>
+                  </div>
+               </td>
+             </tr>
+             <tr>
+               <td>Radio</td>
+               <td>
+                  <div class="btn-group" data-toggle="buttons-radio">
+                    <button class="btn btn-primary">Left</button>
+                    <button class="btn btn-primary">Middle</button>
+                    <button class="btn btn-primary">Right</button>
+                  </div>
+               </td>
+             </tr>
+            </tbody>
+          </table>
+<h1>Collapse</h1>
+ <div class="accordion" id="accordion2">
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                  Collapsible Group Item #1
+                </a>
+              </div>
+              <div id="collapseOne" class="accordion-body collapse in">
+                <div class="accordion-inner">
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+                  Collapsible Group Item #2
+                </a>
+              </div>
+              <div id="collapseTwo" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+                  Collapsible Group Item #3
+                </a>
+              </div>
+              <div id="collapseThree" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                </div>
+              </div>
+            </div><br><br><br>    <br><br><br><br><br>      
+ <h1>Carousel</h1>        
+  <div id="myCarousel" class="carousel slide">
+            <div class="carousel-inner">
+              <div class="item active">
+                <img src="img/a.jpg" alt="">
+                <div class="carousel-caption">
+                  <h4>ilk resim</h4>
+                  <p>olgu 1</p>
+                </div>
+              </div>
+              <div class="item">
+                <img src="img/b.jpg" alt="">
+                <div class="carousel-caption">
+                  <h4>ikinci resim</h4>
+                  <p>olgu2</p>
+                </div>
+              </div>
+              <div class="item">
+                <img src="img/a.jpg" alt="">
+                <div class="carousel-caption">
+                  <h4>ucuncu resim</h4>
+                  <p>olgu 3</p>
+                </div>
+              </div>
+            </div>
+            <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+            <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+          </div>
+    <br><br><br><br><br>      
+<h1>Typeahead</h1>
+<div class="well">
+            <input type="text" class="span3" style="margin: 0 auto;" data-provide="typeahead" data-items="4" data-source='["Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut","Delaware","Florida","Georgia","Hawaii","Idaho","Illinois","Indiana","Iowa","Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan","Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada","New Hampshire","New Jersey","New Mexico","New York","North Dakota","North Carolina","Ohio","Oklahoma","Oregon","Pennsylvania","Rhode Island","South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont","Virginia","Washington","West Virginia","Wisconsin","Wyoming"]'>
+          </div>
