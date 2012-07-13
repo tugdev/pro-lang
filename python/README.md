@@ -3,6 +3,5 @@ alarm.py
 * gönderen: tugdev
 * alıcı: cehars
 
-
-* tüm hakkı cehars'a aittir
+* Tüm hakkı cehars'a aittir
 * Copyright © 2012
