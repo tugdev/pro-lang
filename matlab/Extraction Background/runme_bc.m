@@ -1,4 +1,4 @@
-% arkaplan çýkarým iþlemi
+% arkaplan ï¿½ï¿½karï¿½m iï¿½lemi
 rgb1 = imread('kapi.bmp');
 rgb2 = imread('kapi_biri.bmp');
 
@@ -14,7 +14,7 @@ sonuc_G = abs(pict1_G - pict2_G);
 sonuc_B = abs(pict1_B - pict2_B);
 
 final = sonuc_R + sonuc_G + sonuc_B;
-final = imfill(im3,'holes');
+final = imfill(final,'holes');
 [str stn]=size(final);
 for i=1:str
     for j=1:stn
