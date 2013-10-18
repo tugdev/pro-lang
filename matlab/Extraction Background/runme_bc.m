@@ -14,7 +14,7 @@ sonuc_G = abs(pict1_G - pict2_G);
 sonuc_B = abs(pict1_B - pict2_B);
 
 final = sonuc_R + sonuc_G + sonuc_B;
-final = imfill(im3,'holes');
+final = imfill(final,'holes');
 [str stn]=size(final);
 for i=1:str
     for j=1:stn
@@ -31,3 +31,8 @@ img(:,:,3)=rgb2(:,:,3).*final;
 subplot(1, 3, 1), imshow(rgb2);
 subplot(1, 3, 2), imshow(rgb1);
 subplot(1, 3, 3), imshow(img);
+
+
+
+
+
