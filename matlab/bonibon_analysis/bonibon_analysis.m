@@ -63,15 +63,26 @@ bw = bwr .* bwg .* bwb;
 bw3 = cat(3, bw,bw,bw);   
 turuncu = uint8(double(im) .* bw3);
 
+%****************************
+%kahve renk için 
+
+bwr = abs(double(r) - 0) <= 75;  
+bwg = abs(double(g) - 0) <= 75;   
+bwb = abs(double(b) - 0) <= 75;   
+bw = bwr .* bwg .* bwb;  
+
+bw3 = cat(3, bw,bw,bw);   
+kahve = uint8(double(im) .* bw3);
+
 %****************** hepsi  **************
 
-subplot(3,2,1); imshow(im); title('Bonibon');
-subplot(3,2,2); imshow(sari); title('sari bonibonlar');
-subplot(3,2,3); imshow(yesil); title('yesil bonibonlar');
-subplot(3,2,4); imshow(mavi); title('mavi bonibonlar');
-subplot(3,2,5); imshow(turuncu); title('turuncu bonibonlar');
-subplot(3,2,6); imshow(bordo); title('bordo bonibonlar');
-
+subplot(3,3,1); imshow(im); title('Bonibon');
+subplot(3,3,2); imshow(sari); title('sari bonibonlar');
+subplot(3,3,3); imshow(yesil); title('yesil bonibonlar');
+subplot(3,3,4); imshow(mavi); title('mavi bonibonlar');
+subplot(3,3,5); imshow(turuncu); title('turuncu bonibonlar');
+subplot(3,3,6); imshow(bordo); title('bordo bonibonlar');
+subplot(3,3,7); imshow(kahve); title('kahve bonibonlar');
 
 
 
