@@ -33,10 +33,11 @@ mavi = uint8(double(im) .* bw3);
 %****************************
 %bordo renk için
 
-bwr = abs(double(r) - 165) <= 50;  
-bwg = abs(double(g) - 30) <= 50;   
-bwb = abs(double(b) - 30) <= 50;   
+bwr= abs(double(r) - 170) <= 25;
+bwg= abs(double(g) - 25) <= 25;
+bwb= abs(double(b) - 30) <= 25; 
 bw = bwr .* bwg .* bwb;  
+
 
 bw3 = cat(3, bw,bw,bw);   
 bordo = uint8(double(im) .* bw3);
@@ -44,9 +45,9 @@ bordo = uint8(double(im) .* bw3);
 %****************************
 %sari renk için bu tamam
 
-bwr = abs(double(r) - 240) <= 80;  
-bwg = abs(double(g) - 233) <= 80;   
-bwb = abs(double(b) - 5) <= 80;   
+bwr = abs(double(r) - 240) <= 40;  
+bwg = abs(double(g) - 233) <= 40;   
+bwb = abs(double(b) - 25) <= 40;    
 bw = bwr .* bwg .* bwb; 
 
 bw3 = cat(3, bw,bw,bw);   
