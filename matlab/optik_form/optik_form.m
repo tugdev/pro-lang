@@ -20,10 +20,10 @@ final = imfill(final,'holes');
 
 %imshow(final)
 s=1;
-M=final(32:154 ,:);
+optik=final(32:154 ,:);
 
-imwrite(M,num2str(s,'optik_%02d.png'));
-optik=imread('optik_01.png');
+%imwrite(M,num2str(s,'optik_%02d.png'));
+%optik=imread('optik_01.png');
 
 %imshow(optik)
 [L,T]=bwlabel(optik);
@@ -71,7 +71,7 @@ for i=1:(length(m)/2)
  
 end
 
-imshow(rgb2);title(['optik formdaki iþaretlenen sayýlar = ',num2str(a)]);
+imshow(rgb2);title(['optik formdaki iï¿½aretlenen sayï¿½lar = ',num2str(a)]);
 
 
 
