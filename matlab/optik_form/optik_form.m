@@ -71,7 +71,7 @@ for i=1:(length(m)/2)
  
 end
 
-imshow(rgb2);title(['optik formdaki i�aretlenen say�lar = ',num2str(a)]);
+imshow(rgb2);title(['optik formdaki isaretlenen sayilar = ',num2str(a)]);
 
 
 
