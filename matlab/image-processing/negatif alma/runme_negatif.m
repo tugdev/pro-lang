@@ -5,3 +5,6 @@ i=imread('cameraman.tif');
 im=double(i);
 im=uint8(255-im);
 imshow(im)
+
+
+%i=imcomplement(i)
