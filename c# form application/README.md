@@ -3,7 +3,7 @@ Asp.Net_web_uyg
 
 Asp.Net ile yapılan çalışmalar
 
-Çalışmalardan Admin Panel Örneği => https://github.com/tugdev/Asp.Net_web_uyg/tree/master/uygulamalar/winformapp
+Çalışmalardan Admin Panel Örneği => https://github.com/tugdev/pro-lang/tree/master/c%23%20form%20application/admin_kul_panelp
 
  1)- Login Form:
  
