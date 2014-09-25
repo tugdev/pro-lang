@@ -1,0 +1,14 @@
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Array_metotlari\bin\Debug\Array_metotlari.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Array_metotlari\bin\Debug\Array_metotlari.pdb
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Array_metotlari\obj\x86\Debug\Array_metotlari.Form1.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Array_metotlari\obj\x86\Debug\Array_metotlari.Properties.Resources.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Array_metotlari\obj\x86\Debug\Array_metotlari.csproj.GenerateResource.Cache
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Array_metotlari\obj\x86\Debug\Array_metotlari.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Array_metotlari\obj\x86\Debug\Array_metotlari.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Array_metotlari\Array_metotlari\obj\x86\Debug\Array_metotlari.exe
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Array_metotlari\Array_metotlari\obj\x86\Debug\Array_metotlari.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Array_metotlari\Array_metotlari\bin\Debug\Array_metotlari.exe
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Array_metotlari\Array_metotlari\bin\Debug\Array_metotlari.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Array_metotlari\Array_metotlari\obj\x86\Debug\Array_metotlari.Form1.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Array_metotlari\Array_metotlari\obj\x86\Debug\Array_metotlari.Properties.Resources.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Array_metotlari\Array_metotlari\obj\x86\Debug\Array_metotlari.csproj.GenerateResource.Cache

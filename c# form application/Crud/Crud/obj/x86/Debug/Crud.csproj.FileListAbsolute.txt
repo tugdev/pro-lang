@@ -1,0 +1,8 @@
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.Form1.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.Properties.Resources.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.csproj.GenerateResource.Cache
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Crud\Crud\bin\Debug\Crud.exe
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Crud\Crud\bin\Debug\Crud.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.exe
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.csprojResolveAssemblyReference.cache

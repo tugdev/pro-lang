@@ -1,0 +1,7 @@
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Kronometre\bin\Debug\Kronometre.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Kronometre\bin\Debug\Kronometre.pdb
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Kronometre\obj\x86\Debug\Kronometre.Form1.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Kronometre\obj\x86\Debug\Kronometre.Properties.Resources.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Kronometre\obj\x86\Debug\Kronometre.csproj.GenerateResource.Cache
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Kronometre\obj\x86\Debug\Kronometre.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Kronometre\obj\x86\Debug\Kronometre.pdb

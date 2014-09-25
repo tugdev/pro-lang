@@ -1,0 +1,15 @@
+C:\Users\Tugdev\AppData\Local\Temporary Projects\ArrayListOrnek\bin\Debug\ArrayListOrnek.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\ArrayListOrnek\bin\Debug\ArrayListOrnek.pdb
+C:\Users\Tugdev\AppData\Local\Temporary Projects\ArrayListOrnek\obj\x86\Debug\ArrayListOrnek.Form1.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\ArrayListOrnek\obj\x86\Debug\ArrayListOrnek.Properties.Resources.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\ArrayListOrnek\obj\x86\Debug\ArrayListOrnek.csproj.GenerateResource.Cache
+C:\Users\Tugdev\AppData\Local\Temporary Projects\ArrayListOrnek\obj\x86\Debug\ArrayListOrnek.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\ArrayListOrnek\obj\x86\Debug\ArrayListOrnek.pdb
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\ArrayListOrnek\ArrayListOrnek\obj\x86\Debug\ArrayListOrnek.exe
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\ArrayListOrnek\ArrayListOrnek\obj\x86\Debug\ArrayListOrnek.pdb
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\ArrayListOrnek\ArrayListOrnek\bin\Debug\ArrayListOrnek.exe
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\ArrayListOrnek\ArrayListOrnek\bin\Debug\ArrayListOrnek.pdb
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\ArrayListOrnek\ArrayListOrnek\obj\x86\Debug\ArrayListOrnek.Form1.resources
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\ArrayListOrnek\ArrayListOrnek\obj\x86\Debug\ArrayListOrnek.Properties.Resources.resources
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\ArrayListOrnek\ArrayListOrnek\obj\x86\Debug\ArrayListOrnek.csproj.GenerateResource.Cache
+C:\Users\Tugdev\documents\visual studio 2010\Projects\ArrayListOrnek\ArrayListOrnek\obj\x86\Debug\ArrayListOrnek.csprojResolveAssemblyReference.cache

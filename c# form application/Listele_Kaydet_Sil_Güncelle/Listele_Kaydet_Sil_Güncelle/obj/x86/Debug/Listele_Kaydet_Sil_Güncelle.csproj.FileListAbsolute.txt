@@ -1,0 +1,15 @@
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Listele_Kaydet_Sil_Güncelle\bin\Debug\Listele_Kaydet_Sil_Güncelle.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Listele_Kaydet_Sil_Güncelle\bin\Debug\Listele_Kaydet_Sil_Güncelle.pdb
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Listele_Kaydet_Sil_Güncelle\obj\x86\Debug\Listele_Kaydet_Sil_Güncelle.Form1.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Listele_Kaydet_Sil_Güncelle\obj\x86\Debug\Listele_Kaydet_Sil_Güncelle.Properties.Resources.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Listele_Kaydet_Sil_Güncelle\obj\x86\Debug\Listele_Kaydet_Sil_Güncelle.csproj.GenerateResource.Cache
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Listele_Kaydet_Sil_Güncelle\obj\x86\Debug\Listele_Kaydet_Sil_Güncelle.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Listele_Kaydet_Sil_Güncelle\obj\x86\Debug\Listele_Kaydet_Sil_Güncelle.pdb
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\Listele_Kaydet_Sil_Güncelle\Listele_Kaydet_Sil_Güncelle\obj\x86\Debug\Listele_Kaydet_Sil_Güncelle.exe
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\Listele_Kaydet_Sil_Güncelle\Listele_Kaydet_Sil_Güncelle\obj\x86\Debug\Listele_Kaydet_Sil_Güncelle.pdb
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\Listele_Kaydet_Sil_Güncelle\Listele_Kaydet_Sil_Güncelle\bin\Debug\Listele_Kaydet_Sil_Güncelle.exe
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\Listele_Kaydet_Sil_Güncelle\Listele_Kaydet_Sil_Güncelle\bin\Debug\Listele_Kaydet_Sil_Güncelle.pdb
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\Listele_Kaydet_Sil_Güncelle\Listele_Kaydet_Sil_Güncelle\obj\x86\Debug\Listele_Kaydet_Sil_Güncelle.csprojResolveAssemblyReference.cache
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\Listele_Kaydet_Sil_Güncelle\Listele_Kaydet_Sil_Güncelle\obj\x86\Debug\Listele_Kaydet_Sil_Güncelle.Form1.resources
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\Listele_Kaydet_Sil_Güncelle\Listele_Kaydet_Sil_Güncelle\obj\x86\Debug\Listele_Kaydet_Sil_Güncelle.Properties.Resources.resources
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\Listele_Kaydet_Sil_Güncelle\Listele_Kaydet_Sil_Güncelle\obj\x86\Debug\Listele_Kaydet_Sil_Güncelle.csproj.GenerateResource.Cache

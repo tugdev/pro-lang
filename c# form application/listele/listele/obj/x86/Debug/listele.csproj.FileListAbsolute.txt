@@ -1,0 +1,8 @@
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\listele\listele\bin\Debug\listele.exe
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\listele\listele\bin\Debug\listele.pdb
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\listele\listele\obj\x86\Debug\listele.Form1.resources
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\listele\listele\obj\x86\Debug\listele.Properties.Resources.resources
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\listele\listele\obj\x86\Debug\listele.csproj.GenerateResource.Cache
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\listele\listele\obj\x86\Debug\listele.exe
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\listele\listele\obj\x86\Debug\listele.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\listele\listele\obj\x86\Debug\listele.csprojResolveAssemblyReference.cache

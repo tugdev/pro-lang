@@ -1,0 +1,7 @@
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Haftanın_gunleri\obj\x86\Debug\Haftanın_gunleri.Form1.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Haftanın_gunleri\obj\x86\Debug\Haftanın_gunleri.Properties.Resources.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Haftanın_gunleri\obj\x86\Debug\Haftanın_gunleri.csproj.GenerateResource.Cache
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Haftanın_gunleri\bin\Debug\Haftanın_gunleri.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Haftanın_gunleri\bin\Debug\Haftanın_gunleri.pdb
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Haftanın_gunleri\obj\x86\Debug\Haftanın_gunleri.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\Haftanın_gunleri\obj\x86\Debug\Haftanın_gunleri.pdb

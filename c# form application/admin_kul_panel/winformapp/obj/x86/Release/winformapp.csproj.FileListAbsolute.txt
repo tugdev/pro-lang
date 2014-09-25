@@ -1,0 +1,11 @@
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Release\winformapp.Admin.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Release\winformapp.AdminKayit.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Release\winformapp.Form1.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Release\winformapp.Kullanicilgn.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Release\winformapp.Properties.Resources.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Release\winformapp.SifreUnuttum.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Release\winformapp.csproj.GenerateResource.Cache
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\bin\Release\winformapp.exe
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\bin\Release\winformapp.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Release\winformapp.exe
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Release\winformapp.pdb

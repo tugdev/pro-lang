@@ -1,0 +1,7 @@
+C:\Users\Tugdev\AppData\Local\Temporary Projects\UrunYelpazesi\bin\Debug\UrunYelpazesi.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\UrunYelpazesi\bin\Debug\UrunYelpazesi.pdb
+C:\Users\Tugdev\AppData\Local\Temporary Projects\UrunYelpazesi\obj\x86\Debug\UrunYelpazesi.Form1.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\UrunYelpazesi\obj\x86\Debug\UrunYelpazesi.Properties.Resources.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\UrunYelpazesi\obj\x86\Debug\UrunYelpazesi.csproj.GenerateResource.Cache
+C:\Users\Tugdev\AppData\Local\Temporary Projects\UrunYelpazesi\obj\x86\Debug\UrunYelpazesi.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\UrunYelpazesi\obj\x86\Debug\UrunYelpazesi.pdb

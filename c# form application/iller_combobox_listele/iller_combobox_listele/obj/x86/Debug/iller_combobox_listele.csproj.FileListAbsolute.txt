@@ -1,0 +1,15 @@
+C:\Users\Tugdev\AppData\Local\Temporary Projects\iller_combobox_listele\bin\Debug\iller_combobox_listele.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\iller_combobox_listele\bin\Debug\iller_combobox_listele.pdb
+C:\Users\Tugdev\AppData\Local\Temporary Projects\iller_combobox_listele\obj\x86\Debug\iller_combobox_listele.Form1.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\iller_combobox_listele\obj\x86\Debug\iller_combobox_listele.Properties.Resources.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\iller_combobox_listele\obj\x86\Debug\iller_combobox_listele.csproj.GenerateResource.Cache
+C:\Users\Tugdev\AppData\Local\Temporary Projects\iller_combobox_listele\obj\x86\Debug\iller_combobox_listele.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\iller_combobox_listele\obj\x86\Debug\iller_combobox_listele.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\iller_combobox_listele\iller_combobox_listele\obj\x86\Debug\iller_combobox_listele.exe
+C:\Users\Tugdev\documents\visual studio 2010\Projects\iller_combobox_listele\iller_combobox_listele\obj\x86\Debug\iller_combobox_listele.pdb
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\iller_combobox_listele\iller_combobox_listele\bin\Debug\iller_combobox_listele.exe
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\iller_combobox_listele\iller_combobox_listele\bin\Debug\iller_combobox_listele.pdb
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\iller_combobox_listele\iller_combobox_listele\obj\x86\Debug\iller_combobox_listele.csprojResolveAssemblyReference.cache
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\iller_combobox_listele\iller_combobox_listele\obj\x86\Debug\iller_combobox_listele.Form1.resources
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\iller_combobox_listele\iller_combobox_listele\obj\x86\Debug\iller_combobox_listele.Properties.Resources.resources
+C:\Users\Tugdev\Documents\Visual Studio 2010\Projects\iller_combobox_listele\iller_combobox_listele\obj\x86\Debug\iller_combobox_listele.csproj.GenerateResource.Cache

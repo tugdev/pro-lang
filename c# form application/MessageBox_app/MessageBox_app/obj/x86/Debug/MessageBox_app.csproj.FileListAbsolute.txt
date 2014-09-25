@@ -1,0 +1,15 @@
+C:\Users\Tugdev\AppData\Local\Temporary Projects\MessageBox_app\bin\Debug\MessageBox_app.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\MessageBox_app\bin\Debug\MessageBox_app.pdb
+C:\Users\Tugdev\AppData\Local\Temporary Projects\MessageBox_app\obj\x86\Debug\MessageBox_app.Form1.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\MessageBox_app\obj\x86\Debug\MessageBox_app.Properties.Resources.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\MessageBox_app\obj\x86\Debug\MessageBox_app.csproj.GenerateResource.Cache
+C:\Users\Tugdev\AppData\Local\Temporary Projects\MessageBox_app\obj\x86\Debug\MessageBox_app.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\MessageBox_app\obj\x86\Debug\MessageBox_app.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\MessageBox_app\MessageBox_app\obj\x86\Debug\MessageBox_app.exe
+C:\Users\Tugdev\documents\visual studio 2010\Projects\MessageBox_app\MessageBox_app\obj\x86\Debug\MessageBox_app.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\MessageBox_app\MessageBox_app\bin\Debug\MessageBox_app.exe
+C:\Users\Tugdev\documents\visual studio 2010\Projects\MessageBox_app\MessageBox_app\bin\Debug\MessageBox_app.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\MessageBox_app\MessageBox_app\obj\x86\Debug\MessageBox_app.Form1.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\MessageBox_app\MessageBox_app\obj\x86\Debug\MessageBox_app.Properties.Resources.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\MessageBox_app\MessageBox_app\obj\x86\Debug\MessageBox_app.csproj.GenerateResource.Cache
+C:\Users\Tugdev\documents\visual studio 2010\Projects\MessageBox_app\MessageBox_app\obj\x86\Debug\MessageBox_app.csprojResolveAssemblyReference.cache

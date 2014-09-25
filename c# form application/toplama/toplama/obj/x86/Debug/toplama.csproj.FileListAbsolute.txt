@@ -1,0 +1,7 @@
+C:\Users\Tugdev\AppData\Local\Temporary Projects\toplama\bin\Debug\toplama.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\toplama\bin\Debug\toplama.pdb
+C:\Users\Tugdev\AppData\Local\Temporary Projects\toplama\obj\x86\Debug\toplama.Form1.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\toplama\obj\x86\Debug\toplama.Properties.Resources.resources
+C:\Users\Tugdev\AppData\Local\Temporary Projects\toplama\obj\x86\Debug\toplama.csproj.GenerateResource.Cache
+C:\Users\Tugdev\AppData\Local\Temporary Projects\toplama\obj\x86\Debug\toplama.exe
+C:\Users\Tugdev\AppData\Local\Temporary Projects\toplama\obj\x86\Debug\toplama.pdb

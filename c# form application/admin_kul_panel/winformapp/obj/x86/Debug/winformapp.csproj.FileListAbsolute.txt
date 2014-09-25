@@ -1,0 +1,12 @@
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\bin\Debug\winformapp.exe
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\bin\Debug\winformapp.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Debug\winformapp.csprojResolveAssemblyReference.cache
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Debug\winformapp.Admin.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Debug\winformapp.Form1.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Debug\winformapp.Properties.Resources.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Debug\winformapp.csproj.GenerateResource.Cache
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Debug\winformapp.exe
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Debug\winformapp.pdb
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Debug\winformapp.AdminKayit.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Debug\winformapp.Kullanici.resources
+C:\Users\Tugdev\documents\visual studio 2010\Projects\winformapp\winformapp\obj\x86\Debug\winformapp.KullaniciKayit.resources
